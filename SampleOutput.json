@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "TIMESOFINDIA.COM",
+      "title": "Steve Smith to lead Australia in ODI series against India - Indiatimes.com",
+      "description": "Cricket News: Steve Smith will continue to lead Australia in the white-ball leg of the team's India tour, after Pat Cummins, who lost his mother to illness recently",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/australia-in-india/steve-smith-to-lead-australia-in-odi-series-against-india/articleshow/98624738.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-98624765,width-1070,height-580,imgsize-57730,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2023-03-14T06:20:00Z",
+      "content": "India secure WTC final berth after New Zealand beat Sri Lanka in a thrillerIndia will face on Australia in the World Test Championship (WTC) final at The Oval in London in June after New Zealand beat… [+62 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": null,
+      "title": "Oscars 2023: Deepika Padukone's Plus One Was Sister Anisha - See Her Post - NDTV Movies",
+      "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+      "url": "https://www.ndtv.com/",
+      "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+      "publishedAt": "2023-03-14T05:43:30Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "HT Sports Desk",
+      "title": "‘They mostly knock us out…’: Dravid reveals ‘stressed’ moments during NZ vs SL - Hindustan Times",
+      "description": "Sri Lanka needed nothing less than a win to remain alive in the WTC 2023 final race and despite putting in their best effort Dimuth Karunaratne and Co. were humbled by a match-winning effort by Kane Williamson. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/new-zealand-mostly-knock-us-out-of-icc-events-dravid-says-indian-dressing-room-was-stressed-seeing-williamson-chase-target-vs-sri-lanka-101678734396809.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/03/13/1600x900/PTI02-08-2023-000054B-0_1678749066103_1678749066103_1678749098916_1678749098916.jpg",
+      "publishedAt": "2023-03-14T01:52:48Z",
+      "content": "As a draw looked inevitable in the fourth and final Test between India and Australia in Ahmedabad, many Indian fans were glued to their mobile and TV screens, eagerly following the proceedings in Chr… [+3014 chars]"
+    }
+  ]
+}
